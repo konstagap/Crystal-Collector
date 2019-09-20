@@ -1,2 +1,2 @@
 # unit-4-game
-jqery home work
+Crystal collector game build with JQuery!
