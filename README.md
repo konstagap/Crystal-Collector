@@ -1,5 +1,5 @@
 # unit-4-game
-https://konstagap.github.io/unit-4-game/
+https://konstagap.github.io/Crystal-Collector/
 Crystal collector game build with JQuery!
 Here's how the app works:
 
