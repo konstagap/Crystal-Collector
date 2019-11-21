@@ -1,6 +1,8 @@
-# unit-4-game
+## Crystal collector
+
 https://konstagap.github.io/Crystal-Collector/
-Crystal collector game build with JQuery!
+
+# Crystal collector game build with JQuery!
 Here's how the app works:
 
    * There will be four crystals displayed as buttons on the page.
